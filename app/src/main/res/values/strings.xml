@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_1">What is the only food that cannot go bad</string>
+    <string name="question_2">What is the most visited tourist attraction in the world</string>
+    <string name="question_3">What is the highest-grossing Broadway show of all time</string>
+    <string name="question_4">What is the oldest soft drink in the United States</string>
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question1_answer1">Honey</string>
+    <string name="question1_answer2">Spam</string>
+    <string name="question1_answer3">Canned Tuna</string>
+    <string name="question1_answer4">Chocolate</string>
+    <string name="question2_answer1">Nile River</string>
+    <string name="question2_answer2">Eiffel Tower</string>
+    <string name="question2_answer3">Niagara Falls</string>
+    <string name="question2_answer4">Colosseum</string>
+    <string name="question3_answer1">Wicked</string>
+    <string name="question3_answer2">Hamilton</string>
+    <string name="question3_answer3">The Lion King</string>
+    <string name="question3_answer4">Rent</string>
+    <string name="question4_answer1">Fanta</string>
+    <string name="question4_answer2">Diet Coke</string>
+    <string name="question4_answer3">Pepsi Blue</string>
+    <string name="question4_answer4">Dr Pepper</string>
+    <string name="Results">Results</string>
+    <string name="correct_answers_label">Correct Answers:</string>
+    <string name="correct_answers_value">3</string>
+    <string name="total_questions_label">Total Questions:</string>
+    <string name="total_questions_value">4</string>
+    <string name="hints_used_label">Hints Used:</string>
+    <string name="hints_used_value">4</string>
+    <string name="reset_all">RESET ALL</string>
+
+
+</resources>
